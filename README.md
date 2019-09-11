@@ -1,17 +1,17 @@
 # tutoriales_intro_DS
 
-Este repo sirve para alojar materiales que se utilizarán en la asignatura "Programación y manejo de datos en la era del Big Data" de la UV.
+Repo para alojar materiales que se utilizarán en la asignatura "Programación y manejo de datos en la era del Big Data" de la UV.
 
 Aquí se alojarán, principalmente tutoriales y transparencias de clase. Los ejemplos y casos se encuentran en: <https://rstudio.cloud/project/472823>.
 
-Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o ejecutando las siguientes instrucciones en R/RStudio:
+Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o, alternativamente, ejecutando las siguientes instrucciones en R/RStudio:
 
 ```
 #install.packages("usethis") 
 usethis::use_course("perezp44/tutoriales_intro_DS", destdir = "./")
 ```
 
-Alternativamente, también puedes descargarte **todos** los archivos del repo usando solo R-base:
+También puedes descargarte **todos** los archivos del repo usando solo R-base:
 
 ```
 url <- "https://github.com/perezp44/tutoriales_intro_DS/archive/master.zip"
