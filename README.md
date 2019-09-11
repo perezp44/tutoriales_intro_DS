@@ -6,14 +6,14 @@ Aquí se alojarán, principalmente tutoriales y transparencias de clase. Los eje
 
 Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o, alternativamente, ejecutando las siguientes instrucciones en R/RStudio:
 
-```
+```r
 #install.packages("usethis") 
 usethis::use_course("perezp44/tutoriales_intro_DS", destdir = "./")
 ```
 
 También puedes descargarte **todos** los archivos del repo usando solo R-base:
 
-```
+```r
 url <- "https://github.com/perezp44/tutoriales_intro_DS/archive/master.zip"
 download.file(url, destfile = "./tutoriales_intro_DS.zip")
 unzip(zipfile = "./tutoriales_intro_DS.zip")
@@ -21,7 +21,7 @@ unzip(zipfile = "./tutoriales_intro_DS.zip")
 
 Si quieres descargarte **solo un archivo** puedes hacerlo con:
 
-```
+```r
 file_to_download <- "tt_01_introduccion_v3.html" #- elige el archivo que quieres bajarte
 url <- paste0("https://github.com/perezp44/archivos_download/raw/master/", file_to_download)
 download.file(url, destfile = file_to_download)
