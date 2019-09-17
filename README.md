@@ -2,7 +2,13 @@
 
 Repo para alojar materiales que se utilizarán en la asignatura "Programación y manejo de datos en la era del Big Data" de la UV.
 
-Aquí se alojarán, principalmente tutoriales y transparencias de clase. Los ejemplos y casos se encuentran en: <https://rstudio.cloud/project/472823>. Durante el curso usaremos esta etherpad: <https://etherpad.wikimedia.org/p/curso_intro_DS_UV> .
+- Aquí se alojarán, principalmente tutoriales y transparencias de clase. 
+
+- Los ejemplos y casos se encuentran en: <https://rstudio.cloud/project/472823> 
+
+- Durante el curso usaremos esta etherpad: <https://etherpad.wikimedia.org/p/curso_intro_DS_UV>
+
+<br>
 
 Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o, alternativamente, ejecutando las siguientes instrucciones en R/RStudio:
 
