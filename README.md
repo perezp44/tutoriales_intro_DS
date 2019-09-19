@@ -6,7 +6,7 @@ Repo para alojar los materiales que se utilizarán en la asignatura "Programaci�
 
 - La versión actualizada de los **ejemplos** y **casos** se encuentra en un RProject de RStudio Cloud, concretamente en: <https://rstudio.cloud/project/472823> . 
 
-- Además, en este mismo repo, concretamente en el archivo `ejemplo_intro_DS.zip` tienes una copia del Rproject con los ejemplos y casos.
+- Además, en este mismo repo, concretamente en el archivo `ejemplo_intro_DS.zip`, tienes una copia del Rproject con los ejemplos y casos.
 
 - Durante el curso usaremos esta **etherpad**: <https://etherpad.wikimedia.org/p/curso_intro_DS_UV>
 
