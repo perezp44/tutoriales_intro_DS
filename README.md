@@ -27,10 +27,25 @@ download.file(url, destfile = "./tutoriales_intro_DS.zip")
 unzip(zipfile = "./tutoriales_intro_DS.zip")
 ```
 
+<br>
+
+
 Si quieres descargarte **solo un archivo** puedes hacerlo con:
 
 ```r
 file_to_download <- "tt_01_introduccion_v3.html" #- elige el archivo que quieres bajarte
 url <- paste0("https://github.com/perezp44/tutoriales_intro_DS/raw/master/", file_to_download)
 download.file(url, destfile = file_to_download)
+```
+
+<br>
+
+Si quieres descargarte (y descomprimir) el Rproject con los ejemplos:
+
+```r
+file_to_download <- "ejemplos_intro_DS.zip" 
+url <- paste0("https://github.com/perezp44/tutoriales_intro_DS/raw/master/", file_to_download)
+download.file(url, destfile = file_to_download)
+unzip(zipfile = file_to_download)
+file.remove(file_to_download)        #- borra el archivo .zip
 ```
