@@ -5,7 +5,6 @@
 ------------------------------------------------------------------------
 
 # Curso Programación y manejo de datos 
-===================================================================
 
 <img src="/figs/mola-mazo.png" align="right" width="200" height="240"/>
 
@@ -26,11 +25,13 @@ Repo para alojar los materiales que se utilizarán en la asignatura "Programaci�
 
 Durante el curso 2019-20 los estudiantes hicieron un proyecto que aporta 1,5 puntos a la nota final del curso (el profe es un poco rácano!!). Aquí puedes ver el listado de trabajos por orden de exposición:
 
-- 1)
+1)
 
 
 <br>
+
 ---------------------
+
 # Descarga de los materiales utilizados durante el curso
 
 Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o, alternativamente, ejecutando las siguientes instrucciones en R/RStudio:
