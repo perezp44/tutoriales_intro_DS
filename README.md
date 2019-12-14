@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
 
-[![Project Status: WIP ? Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip) [![Last-changedate](https://img.shields.io/badge/last%20change-2018--02--06-yellowgreen.svg)](/commits/master)
-
+[![Project Status: WIP ? Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
 ------------------------------------------------------------------------
 
-
-tutoriales_intro_DS <img src="/figs/mola-mazo.png" align="right" />
+tutoriales_intro_DS <img src="/figs/mola-mazo.png" align="right" width="200" height="240"/>
 ===================================================================
 
 
@@ -21,6 +19,9 @@ Repo para alojar los materiales que se utilizar√°n en la asignatura "Programaci√
 - Durante el curso usaremos esta **etherpad**: <https://etherpad.wikimedia.org/p/curso_intro_DS_UV>
 
 <br>
+
+---------------------
+# Descarga de los materiales
 
 Puedes descargarte **TODOS** los archivos de este repo pinchando en el icono verde donde pone "Clone or download" o, alternativamente, ejecutando las siguientes instrucciones en R/RStudio:
 
