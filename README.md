@@ -6,7 +6,7 @@
 ------------------------------------------------------------------------
 
 
-tutoriales_intro_DS <img src="/figures/mola-mazo.png" align="right" />
+tutoriales_intro_DS <img src="/figs/mola-mazo.png" align="right" />
 ===================================================================
 
 
