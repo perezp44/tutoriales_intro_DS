@@ -1,4 +1,14 @@
-# tutoriales_intro_DS
+------------------------------------------------------------------------
+
+[![Project Status: WIP ? Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip) [![Last-changedate](https://img.shields.io/badge/last%20change-2018--02--06-yellowgreen.svg)](/commits/master)
+
+
+------------------------------------------------------------------------
+
+
+tutoriales_intro_DS <img src="/figures/mola-mazo.png" align="right" />
+===================================================================
+
 
 Repo para alojar los materiales que se utilizarán en la asignatura "Programación y manejo de datos en la era del Big Data" de la UV.
 
