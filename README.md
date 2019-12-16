@@ -8,7 +8,7 @@
 
 <img src="/figs/mola-mazo.png" align="right" width="200" height="240"/>
 
-Repo para alojar los materiales que se utilizarán en la asignatura "Programación y manejo de datos en la era del Big Data" de la UV.
+Repo para alojar los materiales que se utilizarán en la asignatura [Programación y manejo de datos en la era del Big Data](https://webges.uv.es/uvGuiaDocenteWeb/guia?APP=uvGuiaDocenteWeb&ACTION=MOSTRARGUIA.M&MODULO=36494&CURSOACAD=2020&IDIOMA=C) del Grado en Economía de la UV.
 
 - Aquí se alojarán, principalmente **tutoriales** y **transparencias de clase**. 
 
