@@ -24,7 +24,7 @@ Repo para alojar los materiales que se utilizarán en la asignatura [Programaci�
 
 # Trabajos de los estudiantes
 
-Durante el curso 2019-20 los estudiantes hicieron un proyecto que aporta 1,5 puntos a la nota final del curso (el profe es un poco rácano⁉️). La verdad es que los estudiantes lo hicieron muy bien!!! 👏👏👏
+Durante el curso 2019-20 los estudiantes hicieron un proyecto que aporta 1,25 puntos a la nota final del curso (el profe es un poco rácano⁉️). La verdad es que los estudiantes lo hicieron muy bien!!! 👏👏👏
 Aquí puedes ver el listado de trabajos por orden de exposición:
 
 1)  
