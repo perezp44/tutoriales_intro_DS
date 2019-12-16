@@ -29,7 +29,7 @@ Aquí puedes ver el listado de trabajos por orden de exposición:
 
 1)  
 
-2) [Prject AGA](https://github.com/andreu2398/Project-AGA)
+2) [Project AGA](https://github.com/andreu2398/Project-AGA)
 
 
 <br>
