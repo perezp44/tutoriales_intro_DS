@@ -27,13 +27,15 @@ Repo para alojar los materiales que se utilizarán en la asignatura [Programaci�
 Durante el curso 2019-20 los estudiantes hicieron un proyecto que aporta 1,25 puntos a la nota final del curso (el profe es un poco rácano⁉️). La verdad es que los estudiantes lo hicieron muy bien!!! 👏👏👏
 Aquí puedes ver el listado de trabajos por orden de exposición:
 
-1)  
+1)  Secuestros en Chicago
 
-2) [Project AGA](https://github.com/andreu2398/Project-AGA)  
+2) [Project AGA](https://github.com/andreu2398/Project-AGA): Producción agrícola. Datos FAO. 
 
-3) [ProyectoTeodoroAdrian](https://github.com/teodoromouniertebas/ProyectoTeodoroAdrian)  
+3) [ProyectoTeodoroAdrian](https://github.com/teodoromouniertebas/ProyectoTeodoroAdrian): Crimenes en Europa. Eurostat.
 
-4) [Elecciones 28A](https://github.com/jcotanda/elecciones28a)
+4) [Elecciones 28A](https://github.com/jcotanda/elecciones28a): Elecciones generales en España. Misisterio del Interior.
+
+5) [proyecto_eco_uv](https://github.com/7antoniosegovia/proyecto_eco_uv/): NBA
 
 
 <br>
