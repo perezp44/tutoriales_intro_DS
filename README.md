@@ -29,7 +29,11 @@ Aquí puedes ver el listado de trabajos por orden de exposición:
 
 1)  
 
-2) [Project AGA](https://github.com/andreu2398/Project-AGA)
+2) [Project AGA](https://github.com/andreu2398/Project-AGA)  
+
+3) [ProyectoTeodoroAdrian](https://github.com/teodoromouniertebas/ProyectoTeodoroAdrian)  
+
+4) [Elecciones 28A](https://github.com/jcotanda/elecciones28a)
 
 
 <br>
