@@ -35,7 +35,7 @@ Aquí puedes ver el listado de trabajos por orden de exposición:
 
 4) [Elecciones 28A](https://github.com/jcotanda/elecciones28a): Elecciones generales en España. Misisterio del Interior.
 
-5) [proyecto_eco_uv](https://github.com/7antoniosegovia/proyecto_eco_uv/): NBA
+5) [proyecto_eco_uv](https://github.com/7antoniosegovia/proyecto_eco_uv/): Revolución del triple en la NBA
 
 
 <br>
