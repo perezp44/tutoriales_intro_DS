@@ -39,7 +39,11 @@ Aquí puedes ver el listado de trabajos por orden de exposición:
 
 6) [PROYECTO-PROG](https://github.com/agilabertt/PROYECTO-PROG): Tenis: ATP rankings.
 
-7) [Trabajo_BIGDATA](https://github.com/aljberbell/Trabajo_BIGDATA)
+7) [Trabajo_BIGDATA](https://github.com/aljberbell/Trabajo_BIGDATA)  
+
+8) [Muertes por drogras en USA](https://github.com/claraguillem17/Muertes_drogas_EEUU)
+
+9) [Emisiones de C0<sub>2</sub>](https://github.com/Vemenez/Emisiones-CO2)
 
 
 
